@@ -63,11 +63,11 @@ Exploring the association between baby names and ethnic groups can shed light on
 -Hispanic (green) is also highly represented, sometimes being the second-largest ethnic group for a name.
 -Black Non-Hispanic (yellow) is consistently present across many names but in smaller proportions.
 -Asian and Pacific Islander groups (blue and orange) appear less frequently and mostly in lower proportions, suggesting some names are less common in those communities.
--This order makes sense because it ranks from highest to lowest population by race according to the US Census
+-This order makes sense because it ranks from highest to lowest population by race according to the US Census.
 
 **Observation 2**
--Ethan, Jacob, and Micheal are the most popular baby names 
--They are also all biblical names 
+-Ethan, Jacob, and Micheal are the most popular baby names.
+-They are also all biblical names.
 -The most popular baby name is ‘Ethan’ and this name was most commonly used by people who identified as Hispanic. This includes years from 2011-2021.
 -Top names like LUNA, ISABELLA, EMMA, and SOFIA have the highest overall counts, indicating strong popularity across the U.S.
 -Hispanic and White Non-Hispanic groups make up the majority of counts for most names.
@@ -77,7 +77,7 @@ Exploring the association between baby names and ethnic groups can shed light on
 -Asian and Pacific Islander and Black Non-Hispanic groups are present but have smaller representation overall.
 -Name popularity declines steadily from left to right, with the top 10 names significantly more common than those further down the chart.
 -From the years 2015-2021, the most common name was ‘Liam’ and again, it was most popularly used by people who identified as Hispanic.
--Names such as esmeralda with origins from spanish and/or latin are more common in hispanic population → possible explanation could be to preserve culture 
+-Names such as esmeralda with origins from spanish and/or latin are more common in hispanic population → possible explanation could be to preserve culture.
 
 ![image](https://github.com/user-attachments/assets/0495e59c-2225-47f8-8364-6b3deb01abac)
 
@@ -90,11 +90,15 @@ Exploring the association between baby names and ethnic groups can shed light on
 This analytical question explores whether external cultural influences, such as major news events, popular media, or celebrity prominence, have a measurable impact on the frequency of specific baby names over time. By analyzing trends in baby name popularity and comparing them to timelines of significant events (e.g., a celebrity becoming widely known, a movie release, a political figure rising in prominence), the analysis seeks to uncover patterns of cause-and-effect or influence in naming behavior.
 
 **Observation**
--Zendaya (name) was super popular in 2013-2014 → KC Undercover, Zapped, Shake It Up, Red Carpets
--Zuri (name) grew in popularity from 2011-2015 then decreased in 2016 went back up from 2017-2018 then decreased in 2019 then dramatically increased in 2020 
--Alessandro popular every 2 years it seems for 2 years 2015-2016 then none in 2017 then again in 2018-2019 and none in 2020 then back in 2021
+-Zendaya (name) was super popular in 2013-2014 → KC Undercover, Zapped, Shake It Up, Red Carpets.
+
+-Zuri (name) grew in popularity from 2011-2015 then decreased in 2016 went back up from 2017-2018 then decreased in 2019 then dramatically increased in 2020.
+
+-Alessandro popular every 2 years it seems for 2 years 2015-2016 then none in 2017 then again in 2018-2019 and none in 2020 then back in 2021.
+
 -Ethan was overall the most popular baby name, with 22,149 babies. This was most used by people of Hispanic Ethnicity. 
--Biblical names popular with white and hispanic due to large christian populations 
+
+-Biblical names popular with white and hispanic due to large christian populations.
 
 ![image](https://github.com/user-attachments/assets/ec4cc66d-6eba-4962-bc98-feea6fecaf9c)
 
@@ -117,7 +121,7 @@ Zendaya: Name spiked in 2013–2014 during peak TV popularity (KC Undercover, Za
 
 Zuri: Rose after _Jessie_(Zuri was the name of one of the characters) aired (2011), surged again in 2020 (due to pandemic rewatching).
 
-##Insight: Media and celebrities influence baby name trends.
+Insight: Media and celebrities influence baby name trends.
 These examples highlight how major cultural moments can directly impact naming trends. Parents may be inspired by beloved characters or celebrities who represent traits they admire or find aspirational. Some of these shows were also based in New York or adjacent and this may also influence the dataset as our dataset is set in New York City.
 
 It is important to note that there could be a lag trend between when these celebrities become popular and when parents actually begin to name their children after them. The main audience for the shows mentioned above is children to early teens. We can assume that this demographic is not having kids, but they do have parents who may watch the show with them or hear about the show from their children which is why parents may be influenced to name their children after these celebrities and/or characters for their next child. 
