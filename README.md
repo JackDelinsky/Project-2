@@ -119,7 +119,7 @@ Our analysis shows a clear link between pop culture phenomena and baby name tren
 
 Zendaya: Name spiked in 2013–2014 during peak TV popularity (KC Undercover, Zapped). 
 
-Zuri: Rose after _Jessie_(Zuri was the name of one of the characters) aired (2011), surged again in 2020 (due to pandemic rewatching).
+Zuri: Rose after _Jessie_ (Zuri was the name of one of the characters) aired (2011), surged again in 2020 (due to pandemic rewatching).
 
 Insight: Media and celebrities influence baby name trends.
 These examples highlight how major cultural moments can directly impact naming trends. Parents may be inspired by beloved characters or celebrities who represent traits they admire or find aspirational. Some of these shows were also based in New York or adjacent and this may also influence the dataset as our dataset is set in New York City.
