@@ -117,6 +117,8 @@ Zuri: Rose after Jessie aired (2011), surged again in 2020 (due to pandemic rewa
 Insight: Media and celebrities influence baby name trends
 These examples highlight how major cultural moments can directly impact naming trends. Parents may be inspired by beloved characters or celebrities who represent traits they admire or find aspirational.
 
+It is important to note that there could be a lag trend between when these celebrities become popular and when parents actually begin to name their children after them. The main audience for the shows mentioned above is children to early teens. We can assume that this demographic is not having kids, but they do have parents who may watch the show with them or hear about the show from their children which is why parents may be influenced to name their children after these celebrities and/or characters for their next child. 
+
 
 **Conclusion**
 Our analysis of New York City baby names (2011–2021) reveals strong correlations between name popularity and both ethnic background and cultural events.
