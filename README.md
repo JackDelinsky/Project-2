@@ -112,9 +112,12 @@ Asian/Pacific Islander Names: Ethan, Jayden, Ryan, Kevin, Chloe, Olivia, Sophia 
 
 **Question 2**
 Our analysis shows a clear link between pop culture phenomena and baby name trends over the last decade:
-Zendaya: Name spiked in 2013–2014 during peak TV popularity (KC Undercover, Zapped)
-Zuri: Rose after Jessie aired (2011), surged again in 2020 (due to pandemic rewatching)
-Insight: Media and celebrities influence baby name trends
+
+Zendaya: Name spiked in 2013–2014 during peak TV popularity (KC Undercover, Zapped). 
+
+Zuri: Rose after _Jessie_(Zuri was the name of one of the characters) aired (2011), surged again in 2020 (due to pandemic rewatching).
+
+##Insight: Media and celebrities influence baby name trends.
 These examples highlight how major cultural moments can directly impact naming trends. Parents may be inspired by beloved characters or celebrities who represent traits they admire or find aspirational. Some of these shows were also based in New York or adjacent and this may also influence the dataset as our dataset is set in New York City.
 
 It is important to note that there could be a lag trend between when these celebrities become popular and when parents actually begin to name their children after them. The main audience for the shows mentioned above is children to early teens. We can assume that this demographic is not having kids, but they do have parents who may watch the show with them or hear about the show from their children which is why parents may be influenced to name their children after these celebrities and/or characters for their next child. 
