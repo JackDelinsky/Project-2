@@ -105,8 +105,8 @@ This analytical question explores whether external cultural influences, such as 
 **Question 1**
 Overall, the data reveals how name choices can reflect cultural identity, familial heritage, and community norms:
 Hispanic Names: Luna, Camila, Isabella, Sofia — all of Latin/Spanish origin, reflecting cultural preservation.
-White Non-Hispanic Names: Emma, Olivia, Ava are most common.
-Cross-Ethnic Popularity: Sofia and Mia appear across multiple groups.
+White Non-Hispanic Names: Emma, Olivia, Ava are most common likely due to its simplicity and commonness in Western countries. 
+Cross-Ethnic Popularity: Sofia and Mia appear across multiple groups likely due to its simplicity and commonness in Western countries as well. 
 Asian/Pacific Islander Names: Ethan, Jayden, Ryan, Kevin, Chloe, Olivia, Sophia — likely influenced by Western naming norms. The dataset may not account for the native names given to babies that reflect their culture. 
 
 
